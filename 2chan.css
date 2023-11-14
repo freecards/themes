@@ -9,3 +9,7 @@
 	--hl-2: #ff043c;
 	--hl-3: #c4fcc4;
 }
+
+h1 {
+	color: var(--hl-2);
+}
